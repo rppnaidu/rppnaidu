@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I worked as a front end developer on user interface with tools like html,css and bootstrap frame work also javascript.
+
 <!--
 **rppnaidu/rppnaidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
